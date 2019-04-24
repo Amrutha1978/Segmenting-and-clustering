@@ -1,2 +1,2 @@
-# Segmenting-and-clustering
-Segmenting and clustering
+#NON-PROFIT-ORGANIZATION
+NON-PROFIT-ORGANIZATION
